@@ -2,9 +2,6 @@
 
 build/
 dist/
+*.spec
 
-
-
-ffmpeg.exe
-ffplay.exe
-ffprobe.exe
+*.exe
